@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3498005949",
+    "firebase_url": "https://loonk-b872d.firebaseio.com",
+    "project_id": "loonk-b872d",
+    "storage_bucket": "loonk-b872d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3498005949:android:7496530e59c95867ebaed4",
+        "android_client_info": {
+          "package_name": "com.example.tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3498005949-vb9cvcm5lhuqpm7o9mq95p0n9u97p3no.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tutorial",
+            "certificate_hash": "2eba6683b882fb3f889d6007c4d02f6caa073b3d"
+          }
+        },
+        {
+          "client_id": "3498005949-mt8q8o6p2iakt2p87ebg4bq7aiatptt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_eD9g3qmrlj5CFxHhz_UqURx3c6tSRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3498005949-mt8q8o6p2iakt2p87ebg4bq7aiatptt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
